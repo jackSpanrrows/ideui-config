@@ -2,7 +2,7 @@
   <component name="GoLibraries">
     <option name="urls">
       <list>
-        <option value="file:///newObject/go-share-library" />
+        <option value="file:///usr/local/src/go/src" />
       </list>
     </option>
   </component>
