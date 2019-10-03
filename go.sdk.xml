@@ -4,6 +4,7 @@
       <set>
         <option value="$USER_HOME$/download/go" />
         <option value="/newObject/src/go" />
+        <option value="/private/var/www/project_go/go" />
         <option value="/usr/lib/go-1.10" />
         <option value="/usr/local/Cellar/go/1.11.1/libexec" />
         <option value="/usr/local/go" />
