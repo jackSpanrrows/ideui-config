@@ -1,4 +1,13 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="300" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <GoCodeStyleSettings>
+    <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
+  </GoCodeStyleSettings>
+  <codeStyleSettings language="go">
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
