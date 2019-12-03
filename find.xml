@@ -11,7 +11,7 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.go</mask>
-    <mask>*.php</mask>
     <mask>*.html</mask>
+    <mask>*.php</mask>
   </component>
 </application>
