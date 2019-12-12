@@ -12,8 +12,8 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.go</mask>
     <mask>*.html</mask>
     <mask>*.php</mask>
-    <mask>*.go</mask>
   </component>
 </application>
