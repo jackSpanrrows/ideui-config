@@ -8,6 +8,7 @@
         <option value="/usr/lib/go-1.10" />
         <option value="/usr/local/Cellar/go/1.11.1/libexec" />
         <option value="/usr/local/Cellar/go/1.13.5/libexec" />
+        <option value="/usr/local/Cellar/go/1.14.2_1/libexec" />
         <option value="/usr/local/go" />
         <option value="/usr/local/src/go" />
       </set>
