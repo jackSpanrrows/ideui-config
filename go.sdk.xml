@@ -6,6 +6,7 @@
         <option value="$USER_HOME$/download/go" />
         <option value="/newObject/src/go" />
         <option value="/private/var/newObject/src/go" />
+        <option value="/private/var/newObject/src/go1.12.9" />
         <option value="/private/var/newObject/src/go1.13.11" />
         <option value="/private/var/www/project_go/go" />
         <option value="/usr/lib/go-1.10" />
