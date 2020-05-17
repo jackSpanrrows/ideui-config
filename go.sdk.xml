@@ -2,6 +2,7 @@
   <component name="GoSdkList">
     <sdk-path>
       <set>
+        <option value="" />
         <option value="$USER_HOME$/download/go" />
         <option value="/newObject/src/go" />
         <option value="/private/var/newObject/src/go" />
