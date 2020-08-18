@@ -1,0 +1,7 @@
+<templateSet group="Djaneiro: Widgets">
+  <template name="wtext" value="$VAR1$ = forms.TextInput($VAR2$)$END$" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;FIELDNAME&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
