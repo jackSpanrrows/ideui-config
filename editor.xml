@@ -9,6 +9,10 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="20" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
