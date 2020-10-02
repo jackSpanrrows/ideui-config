@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="IDC_DEV" type="PLAIN_TEXT" />
       <mapping pattern="MusicDownloader" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
