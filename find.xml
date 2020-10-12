@@ -13,8 +13,8 @@
     <mask>*.json</mask>
     <mask>*.list</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.go</mask>
+    <mask>*.html</mask>
     <mask>*.php</mask>
   </component>
 </application>
