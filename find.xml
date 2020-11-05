@@ -15,6 +15,7 @@
     <mask>*.js</mask>
     <mask>*.go</mask>
     <mask>*.html</mask>
+    <mask>*.mod</mask>
     <mask>*.php</mask>
   </component>
 </application>
