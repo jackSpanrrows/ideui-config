@@ -5,18 +5,19 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.list</mask>
-    <mask>*.css</mask>
     <mask>*.mod</mask>
     <mask>2020*.php</mask>
     <mask>*.go</mask>
     <mask>*.php</mask>
     <mask>*.html</mask>
+    <mask>*.css</mask>
     <mask>*.js</mask>
   </component>
 </application>
