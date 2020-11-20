@@ -16,10 +16,10 @@
     <mask>*.list</mask>
     <mask>*.mod</mask>
     <mask>2020*.php</mask>
-    <mask>*.php</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
     <mask>*.go</mask>
   </component>
 </application>
