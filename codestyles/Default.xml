@@ -4,6 +4,9 @@
   <GoCodeStyleSettings>
     <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
   </GoCodeStyleSettings>
+  <GroovyCodeStyleSettings>
+    <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+  </GroovyCodeStyleSettings>
   <codeStyleSettings language="go">
     <indentOptions>
       <option name="SMART_TABS" value="true" />
